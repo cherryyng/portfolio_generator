@@ -1,4 +1,4 @@
-##Customizable Portfolio Index Generator
+## Customizable Portfolio Index Generator
 Introduction
 This tool crafts personalized portfolios with a focus on large-cap stocks, aligning with specified risk preferences. 
 
