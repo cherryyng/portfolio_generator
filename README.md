@@ -1,6 +1,7 @@
 ## Customizable Portfolio Index Generator
-Introduction:
-This tool crafts personalized portfolios with a focus on large-cap stocks, aligning with specified risk preferences. 
+Ongoing project - in development
+
+This tool is attempting to craft a personalized portfolio with a focus on large-cap stocks, aligning with specified risk preferences. 
 
   
    
